@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm L V S Janaki Rama Raju Kanumuri</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A full stack developer</h3>
 - <img align="right" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2817.jpg" alt="Developer GIF" width="400" />
 
 - 🔭 I’m currently working on **backend projects**
